@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christa 
 - 👀 I’m interested in MACHINE LEARNING, DATA SCIENCE and WEB DEVLOPMENT 
-- 🌱 I’m currently learning web deve.
+- 🌱 I’m currently learning web dev.
 - 📫 How to reach me christaelsalinu@gmail.com
 
 <!---
